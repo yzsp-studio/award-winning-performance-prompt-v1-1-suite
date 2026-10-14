@@ -1,0 +1,15 @@
+display-name-zh: 神笔制作
+version: 0.4.2
+tag-en: "Short Drama / Production"
+tag-cn: "短剧漫剧 / 创作生成"
+complete-tags-en:
+  - "Short Drama / Creative Generation"
+complete-tags-cn:
+  - "短剧漫剧 / 创作生成"
+summary-en: "Full short-drama pipeline with actor-performance voice references, full preproduction snapshots, and variant planning."
+summary-cn: "短剧全流程制作链路，含award-winning-performance-prompt音色参考、全量前置快照与角色/场景变体规划"
+desc-en: "A local full-pipeline skill for short dramas and narrative video projects. It supports cinematic realistic / top Chinese 3D animation CG modes, mandatory style-tone locks, actor-level Seedance prompt formatting, character voice-reference planning, full preproduction snapshots with patch-based synchronization, and character look / scene state variant planning across script, assets, video prompts, post-production, and QC."
+desc-cn: "用于短剧及相关叙事视频的本地全流程制作技能，支持写实真人 / 国漫顶级3D动画CG双模式、风格影调锁、影帝级中文片段镜号格式、角色音色参考规划、完整前置快照 + 差异补丁同步机制，以及角色造型变体 / 场景状态变体在剧本、资产、视频提示词、后期与质检中的全链路计算和验收。"
+author-en: "本平台"
+author-cn: "本平台"
+source: official
